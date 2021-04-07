@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "967626906150",
+    "firebase_url": "https://osrah-station.firebaseio.com",
+    "project_id": "osrah-station",
+    "storage_bucket": "osrah-station.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967626906150:android:8fddb4099b07109e2b24e7",
+        "android_client_info": {
+          "package_name": "com.osrahstation.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967626906150-t8rtlaheov81h65h24f8hb5i4bi7vjjg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb6Y3Da1G6S_yTf3QeEdUge_h_BghV1l8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967626906150-t8rtlaheov81h65h24f8hb5i4bi7vjjg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "967626906150-8lllthndgtp5tt1967cara1i387273s0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.osrahstation.admin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967626906150:android:345215316891b24b2b24e7",
+        "android_client_info": {
+          "package_name": "com.osrahstation.family"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967626906150-t8rtlaheov81h65h24f8hb5i4bi7vjjg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb6Y3Da1G6S_yTf3QeEdUge_h_BghV1l8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967626906150-t8rtlaheov81h65h24f8hb5i4bi7vjjg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "967626906150-8lllthndgtp5tt1967cara1i387273s0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.osrahstation.admin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967626906150:android:a28f8614fe5070ab2b24e7",
+        "android_client_info": {
+          "package_name": "com.osrastation.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967626906150-t8rtlaheov81h65h24f8hb5i4bi7vjjg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb6Y3Da1G6S_yTf3QeEdUge_h_BghV1l8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967626906150-t8rtlaheov81h65h24f8hb5i4bi7vjjg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "967626906150-8lllthndgtp5tt1967cara1i387273s0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.osrahstation.admin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
